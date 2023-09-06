@@ -1,1 +1,1 @@
-# machine_learning
+# probability_theory
