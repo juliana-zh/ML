@@ -1,3 +1,3 @@
-# Machine learning
+# Kaggle projects
 
-Здесь находятся практические задачи и их решения
+Проекты сайта kaggle.com
