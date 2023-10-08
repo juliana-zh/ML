@@ -1,3 +1,3 @@
 # Kaggle projects
 
-Проекты сайта kaggle.com
+Проекты kaggle.com
