@@ -1,3 +1,4 @@
-# Kaggle projects
+# Внимание на:
 
-Проекты kaggle.com
+Titanic.ipynb
+Prediction_of_user_churn.ipynb
